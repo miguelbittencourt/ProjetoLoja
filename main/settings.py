@@ -86,7 +86,7 @@ DATABASES = {
         'PASSWORD': '',
     }
 }
-
+#mysql://b05e15ab547c4d:201fadfe@us-cdbr-east-06.cleardb.net/heroku_7da18ffdedcca50?reconnect=true
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
